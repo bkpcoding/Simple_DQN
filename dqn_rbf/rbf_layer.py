@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/home/sagar/inria/code/dqn_rbf')
 import exputils as eu
 import torch
 import collections
